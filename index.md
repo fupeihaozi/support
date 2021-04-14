@@ -10,7 +10,7 @@ Copyright @ All Rights Reserved 富配豪资策略-股票行情杠杆软件
 
 
 
-##隐私政策：
+## 隐私政策：
 
 
 用户注册及使用APP隐私协议
